@@ -7,7 +7,25 @@
 		<key>calculator.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7BA6C3C42208B5690095ECF1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7BA6C3D82208B56C0095ECF1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7BA6C3E32208B56C0095ECF1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
